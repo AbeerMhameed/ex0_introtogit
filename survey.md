@@ -1,5 +1,6 @@
-Favorite color: 
-Favorite food: 
-Favorite musician/band: 
-Favorite movie: 
-Requested grade in the course: 
+Favorite color:black 
+Favorite food:seafood 
+Favorite musician/band:Ed sheeran 
+Favorite movie:The departed 
+Requested grade in the course:100
+ 
